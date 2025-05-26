@@ -1,4 +1,4 @@
-S# Ex.No:1(B) VARIABLES AND OPERATOR
+## Ex.No:1(B) VARIABLES AND OPERATOR
 
 ## AIM:
 To write a Java program to get values of variables 'a' and 'b' and then check if both the conditions 'a < 50' and 'a < b' are true. [Class name is ‘Demo’]
